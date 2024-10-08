@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Future features:
+
+## Global
+
+* Footer: https://www.w3schools.com/howto/howto_css_fixed_footer.asp
+* Social media: https://www.w3schools.com/howto/howto_css_social_media_buttons.asp
+The footer needs to include: email, linkedin, github etc...
+
+## Home
+
+* Favicon: https://www.w3schools.com/howto/howto_html_favicon.asp
+* Sticky profile image: https://www.w3schools.com/howto/howto_css_image_sticky.asp
+* Skills Bar: https://www.w3schools.com/howto/howto_css_skill_bar.asp
+* Global 'About' format: https://www.w3schools.com/howto/howto_css_about_page.asp
+
+## Contact Page
+
+* Direct contact: https://www.w3schools.com/howto/howto_css_contact_section.asp
+* Caps lock detect: https://www.w3schools.com/howto/howto_js_detect_capslock.asp
+
+## Projects Page
+
+* portfolio gallery: https://www.w3schools.com/howto/howto_css_portfolio_gallery.asp
+
+## Resume Page
+
+* Download link: https://www.w3schools.com/howto/howto_html_download_link.asp
+* Blurry background image of cv: https://www.w3schools.com/howto/howto_css_blurred_background.asp
+
+### Notes
+
+* Need to update CV 

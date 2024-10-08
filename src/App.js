@@ -1,16 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './Header.jsx'
+import NavigationBar from './NavigationBar.jsx';
+
+// Tutorial for all the different components
+// https://www.w3schools.com/howto/default.asp 
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Website under construction...
-        </p>
-      </header>
-    </div>
+    <>
+      <NavigationBar/>
+      <Header/>
+    </>
   );
 }
 

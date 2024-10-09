@@ -75,7 +75,7 @@ The footer needs to include: email, linkedin, github etc...
 
 ## Home
 
-* Favicon: https://www.w3schools.com/howto/howto_html_favicon.asp
+* ~~Favicon: https://www.w3schools.com/howto/howto_html_favicon.asp~~
 * Sticky profile image: https://www.w3schools.com/howto/howto_css_image_sticky.asp
 * Skills Bar: https://www.w3schools.com/howto/howto_css_skill_bar.asp
 * Global 'About' format: https://www.w3schools.com/howto/howto_css_about_page.asp
@@ -91,9 +91,9 @@ The footer needs to include: email, linkedin, github etc...
 
 ## Resume Page
 
-* Download link: https://www.w3schools.com/howto/howto_html_download_link.asp
-* Blurry background image of cv: https://www.w3schools.com/howto/howto_css_blurred_background.asp
+* ~~Download link: https://www.w3schools.com/howto/howto_html_download_link.asp~~
+* ~~Blurry background image of cv: https://www.w3schools.com/howto/howto_css_blurred_background.asp~~
 
 ### Notes
 
-* Need to update CV 
+* ~~Need to update CV~~ 
